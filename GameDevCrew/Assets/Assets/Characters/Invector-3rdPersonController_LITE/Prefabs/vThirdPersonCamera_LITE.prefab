@@ -46,9 +46,10 @@ Camera:
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_GateFitMode: 2
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
@@ -57,7 +58,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.03
-  far clip plane: 300
+  far clip plane: 2000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -97,10 +98,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   header: About the Camera System
-  comment: "In the Full Version you will get: \n\n- CameraStates: You can create different
-    CameraStates for each states of your character, Aiming, Crouching, etc..\n- CameraModes:
-    You can set a Fixed Camera, Fixed that look at the Target, Fixed Angles, Triggers
-    to ChangeStates\n- Much more options like offsets, angle limitation, smoothness, "
+  comment: "In the Full Version you will get: \n\n- CameraStates: You can create
+    different CameraStates for each states of your character, Aiming, Crouching,
+    etc..\n- CameraModes: You can set a Fixed Camera, Fixed that look at the Target,
+    Fixed Angles, Triggers to ChangeStates\n- Much more options like offsets, angle
+    limitation, smoothness, "
   inEdit: 0
 --- !u!114 &2700874171910072507
 MonoBehaviour:

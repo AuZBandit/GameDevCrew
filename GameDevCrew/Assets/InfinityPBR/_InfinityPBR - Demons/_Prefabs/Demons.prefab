@@ -1,0 +1,7808 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &103564
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 493202}
+  - 137: {fileID: 13728028}
+  m_Layer: 0
+  m_Name: L_Greave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &105550
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 421816}
+  m_Layer: 0
+  m_Name: LeftToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &105936
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 456644}
+  m_Layer: 0
+  m_Name: RightFootToeContact
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &107588
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 436382}
+  m_Layer: 0
+  m_Name: Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &108188
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 423680}
+  m_Layer: 0
+  m_Name: LeftFootToeContact
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &109298
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 424650}
+  m_Layer: 0
+  m_Name: LeftUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &110650
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400818}
+  m_Layer: 0
+  m_Name: Chin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &110924
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 438486}
+  m_Layer: 0
+  m_Name: RightShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &111604
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 428362}
+  m_Layer: 0
+  m_Name: RightUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &112974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 459310}
+  - 137: {fileID: 13709980}
+  m_Layer: 0
+  m_Name: Waist_Armor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &113722
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 421694}
+  - 137: {fileID: 13738098}
+  m_Layer: 0
+  m_Name: Chest_Armor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &114942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 453064}
+  m_Layer: 0
+  m_Name: Hips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &115606
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 487662}
+  m_Layer: 0
+  m_Name: Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &115658
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 403914}
+  m_Layer: 0
+  m_Name: RightFootClaw1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &116164
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 476400}
+  m_Layer: 0
+  m_Name: RightHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &118092
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 456246}
+  m_Layer: 0
+  m_Name: Jaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &120658
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 440114}
+  m_Layer: 0
+  m_Name: LeftFootClaw3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &120896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 472424}
+  - 137: {fileID: 13778024}
+  m_Layer: 0
+  m_Name: Demon_Horns_B3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &122304
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 473506}
+  m_Layer: 0
+  m_Name: LeftFootClaw2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &123006
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 448026}
+  m_Layer: 0
+  m_Name: RightFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &124828
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 457554}
+  m_Layer: 0
+  m_Name: LeftFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &126372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 416720}
+  - 137: {fileID: 13755256}
+  m_Layer: 0
+  m_Name: Demon_Horns_B2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &126680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 460118}
+  - 137: {fileID: 13727572}
+  m_Layer: 0
+  m_Name: Demon_Horns_A4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &127216
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 410736}
+  m_Layer: 0
+  m_Name: LeftShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &128356
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 483076}
+  m_Layer: 0
+  m_Name: RightLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &128920
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 428058}
+  m_Layer: 0
+  m_Name: RightArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &129508
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 414540}
+  m_Layer: 0
+  m_Name: RightHandMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &129824
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 477478}
+  m_Layer: 0
+  m_Name: RightHandThumb1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &130932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 491746}
+  - 137: {fileID: 13769378}
+  m_Layer: 0
+  m_Name: Demon_HeadB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &131834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 421364}
+  - 137: {fileID: 13709196}
+  m_Layer: 0
+  m_Name: Demon_Horns_C3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &132538
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 480790}
+  m_Layer: 0
+  m_Name: RightHandThumb3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &133580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 435422}
+  - 137: {fileID: 13731428}
+  m_Layer: 0
+  m_Name: Demon_Horns_C1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &134060
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 494284}
+  m_Layer: 0
+  m_Name: LeftHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &134294
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 439704}
+  m_Layer: 0
+  m_Name: RightFootClaw2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &136360
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 456990}
+  m_Layer: 0
+  m_Name: Tasset03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &139304
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 453036}
+  m_Layer: 0
+  m_Name: LeftHandRing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &140342
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 465968}
+  m_Layer: 0
+  m_Name: LeftHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &140416
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 412738}
+  m_Layer: 0
+  m_Name: LeftHandRing3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &141326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474912}
+  - 137: {fileID: 13784728}
+  m_Layer: 0
+  m_Name: L_Shoulder_Armor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &142260
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 444684}
+  m_Layer: 0
+  m_Name: LeftHandMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &143968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 449434}
+  - 95: {fileID: 9553188}
+  - 114: {fileID: 11423614}
+  m_Layer: 0
+  m_Name: Demons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &144332
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 475616}
+  m_Layer: 0
+  m_Name: LeftHandThumb2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &145516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 449564}
+  - 137: {fileID: 13701064}
+  m_Layer: 0
+  m_Name: R_Shoulder_Armor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &145688
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 404214}
+  m_Layer: 0
+  m_Name: RightFootClaw3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &146786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 477296}
+  - 137: {fileID: 13782332}
+  m_Layer: 0
+  m_Name: Demon_Horns_A2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &150032
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 444896}
+  - 137: {fileID: 13715914}
+  m_Layer: 0
+  m_Name: R_Greave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &150054
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 478994}
+  m_Layer: 0
+  m_Name: LeftHandMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &150858
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 407330}
+  m_Layer: 0
+  m_Name: LeftLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &151728
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 423300}
+  m_Layer: 0
+  m_Name: Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &155044
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 438480}
+  m_Layer: 0
+  m_Name: RightHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &155232
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 464310}
+  m_Layer: 0
+  m_Name: RightHandRing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &155478
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 467500}
+  m_Layer: 0
+  m_Name: RightForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &156078
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 439374}
+  m_Layer: 0
+  m_Name: RightHandRing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &156464
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 491716}
+  m_Layer: 0
+  m_Name: Tasset04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &157090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 480370}
+  - 137: {fileID: 13726948}
+  m_Layer: 0
+  m_Name: Demon_Horns_A1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &159016
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 405440}
+  m_Layer: 0
+  m_Name: RightHandRing3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &159196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 468836}
+  - 137: {fileID: 13789856}
+  m_Layer: 0
+  m_Name: Demon_Body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &159664
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 437000}
+  m_Layer: 0
+  m_Name: RightHandMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &160118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 408292}
+  - 137: {fileID: 13756092}
+  m_Layer: 0
+  m_Name: Demon_Horns_A3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &160278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 403046}
+  - 137: {fileID: 13738256}
+  m_Layer: 0
+  m_Name: Demon_HeadC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &164626
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 495550}
+  m_Layer: 0
+  m_Name: Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &167432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 454374}
+  - 137: {fileID: 13754896}
+  m_Layer: 0
+  m_Name: Demon_Horns_C4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &168340
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 481926}
+  m_Layer: 0
+  m_Name: RightToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &168820
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 486788}
+  m_Layer: 0
+  m_Name: LeftFootClaw1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &169628
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 434134}
+  m_Layer: 0
+  m_Name: LeftHandThumb1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &171342
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 480782}
+  m_Layer: 0
+  m_Name: LeftHandMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &171416
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 431952}
+  m_Layer: 0
+  m_Name: Jaw_Pivot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &172408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 452290}
+  - 137: {fileID: 13785706}
+  m_Layer: 0
+  m_Name: Demon_Horns_C2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &172438
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 439502}
+  m_Layer: 0
+  m_Name: LeftHandThumb3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &172554
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 449202}
+  m_Layer: 0
+  m_Name: Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &173592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 438570}
+  - 137: {fileID: 13726508}
+  m_Layer: 0
+  m_Name: Demon_HeadA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &174850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 465346}
+  - 137: {fileID: 13738492}
+  m_Layer: 0
+  m_Name: Demon_Horns_B1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &176800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 494876}
+  - 137: {fileID: 13723278}
+  m_Layer: 0
+  m_Name: Tassets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &176902
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 444986}
+  m_Layer: 0
+  m_Name: RightHandMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &178200
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 439642}
+  m_Layer: 0
+  m_Name: Tasset02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &179190
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 442336}
+  m_Layer: 0
+  m_Name: LeftForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &183014
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 423910}
+  m_Layer: 0
+  m_Name: Tasset01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &184850
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 496438}
+  m_Layer: 0
+  m_Name: LeftHandRing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &185046
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400260}
+  m_Layer: 0
+  m_Name: LeftHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &186792
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 441494}
+  m_Layer: 0
+  m_Name: RightHandThumb2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &188270
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 452046}
+  m_Layer: 0
+  m_Name: LeftArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &188426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 458826}
+  - 137: {fileID: 13724476}
+  m_Layer: 0
+  m_Name: L_Bracer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &189998
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 465892}
+  m_Layer: 0
+  m_Name: RightHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &191058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 403704}
+  - 137: {fileID: 13785448}
+  m_Layer: 0
+  m_Name: R_Bracer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &193954
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 481922}
+  m_Layer: 0
+  m_Name: LeftHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &197194
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 422040}
+  m_Layer: 0
+  m_Name: RightHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400260
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 185046}
+  m_LocalRotation: {x: -0.21795467, y: -0.009714709, z: 0.0042630695, w: 0.97590125}
+  m_LocalPosition: {x: -0.05145378, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 465968}
+  m_RootOrder: 0
+--- !u!4 &400818
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110650}
+  m_LocalRotation: {x: 0, y: -0, z: -0.08617863, w: 0.9962797}
+  m_LocalPosition: {x: -0.051258735, y: 0.00000030517577, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 456246}
+  m_RootOrder: 0
+--- !u!4 &403046
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160278}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 4
+--- !u!4 &403704
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 191058}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 20
+--- !u!4 &403914
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 115658}
+  m_LocalRotation: {x: 0.018233137, y: -0.43266362, z: -0.03551934, w: 0.90067095}
+  m_LocalPosition: {x: 0.026671309, y: 0.050202828, z: -0.04345279}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 456644}
+  m_RootOrder: 0
+--- !u!4 &404214
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145688}
+  m_LocalRotation: {x: 0.018233137, y: -0.43266362, z: -0.03551934, w: 0.90067095}
+  m_LocalPosition: {x: 0.021042861, y: -0.05022869, z: -0.03516593}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 456644}
+  m_RootOrder: 2
+--- !u!4 &405440
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 159016}
+  m_LocalRotation: {x: 0.05367593, y: 0.8013626, z: 0.5951626, w: -0.026803328}
+  m_LocalPosition: {x: -0.040969085, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 464310}
+  m_RootOrder: 0
+--- !u!4 &407330
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 150858}
+  m_LocalRotation: {x: -0.36733985, y: -0.36025232, z: 0.33220854, w: 0.79051703}
+  m_LocalPosition: {x: -0.3570972, y: 0.014089279, z: -0.01338087}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 457554}
+  m_Father: {fileID: 424650}
+  m_RootOrder: 0
+--- !u!4 &408292
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160118}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 7
+--- !u!4 &410736
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 127216}
+  m_LocalRotation: {x: 0.008424505, y: -0.053180665, z: 0.11679425, w: 0.9916955}
+  m_LocalPosition: {x: -0.09995392, y: 0.033164594, z: 0.0000000011920929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 452046}
+  m_Father: {fileID: 449202}
+  m_RootOrder: 0
+--- !u!4 &412738
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140416}
+  m_LocalRotation: {x: 0.80133456, y: -0.053677924, z: 0.026812976, w: 0.5951997}
+  m_LocalPosition: {x: -0.040968932, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 453036}
+  m_RootOrder: 0
+--- !u!4 &414540
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 129508}
+  m_LocalRotation: {x: 0.9019197, y: 0.3735297, z: 0.05721006, w: 0.20914914}
+  m_LocalPosition: {x: -0.06887001, y: 0.00000015258789, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 444986}
+  m_Father: {fileID: 437000}
+  m_RootOrder: 0
+--- !u!4 &416720
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126372}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 10
+--- !u!4 &421364
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 131834}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 14
+--- !u!4 &421694
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113722}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 0
+--- !u!4 &421816
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105550}
+  m_LocalRotation: {x: -0.018830571, y: 0.1971763, z: -0.00025257736, w: 0.9801872}
+  m_LocalPosition: {x: -0.1900109, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 423680}
+  m_Father: {fileID: 457554}
+  m_RootOrder: 0
+--- !u!4 &422040
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197194}
+  m_LocalRotation: {x: 0.009817774, y: -0.24167004, z: 0.9703005, w: -0.0040270546}
+  m_LocalPosition: {x: -0.051453855, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 465892}
+  m_RootOrder: 0
+--- !u!4 &423300
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 151728}
+  m_LocalRotation: {x: 0, y: 0, z: 0.023435041, w: 0.9997254}
+  m_LocalPosition: {x: -0.12411453, y: 0, z: -4.5474734e-15}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 449202}
+  m_Father: {fileID: 495550}
+  m_RootOrder: 0
+--- !u!4 &423680
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 108188}
+  m_LocalRotation: {x: -8.465348e-16, y: 4.940494e-15, z: -0.0000020743632, w: 1}
+  m_LocalPosition: {x: -0.1304554, y: -0.000000038146972, z: -0.000000007152557}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 486788}
+  - {fileID: 473506}
+  - {fileID: 440114}
+  m_Father: {fileID: 421816}
+  m_RootOrder: 0
+--- !u!4 &423910
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 183014}
+  m_LocalRotation: {x: -0.4552905, y: -0.541018, z: 0.45530158, w: 0.5410273}
+  m_LocalPosition: {x: -0, y: -0.08760879, z: 0.11086144}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 439642}
+  m_Father: {fileID: 453064}
+  m_RootOrder: 3
+--- !u!4 &424650
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 109298}
+  m_LocalRotation: {x: 0.24632591, y: 0.3796661, z: 0.48534766, w: 0.7480741}
+  m_LocalPosition: {x: -0.100781746, y: -0.057206497, z: 0.006309819}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 407330}
+  m_Father: {fileID: 453064}
+  m_RootOrder: 0
+--- !u!4 &428058
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128920}
+  m_LocalRotation: {x: 0.060994036, y: 0.15739878, z: 0.39248067, w: 0.9041373}
+  m_LocalPosition: {x: -0.13804449, y: 0.00000030517577, z: -0.000000001490116}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 467500}
+  m_Father: {fileID: 438486}
+  m_RootOrder: 0
+--- !u!4 &428362
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111604}
+  m_LocalRotation: {x: -0.106032595, y: 0.14318421, z: 0.79077876, w: 0.5855975}
+  m_LocalPosition: {x: 0.100782, y: -0.05720596, z: 0.0063098455}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 483076}
+  m_Father: {fileID: 453064}
+  m_RootOrder: 1
+--- !u!4 &431952
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 171416}
+  m_LocalRotation: {x: -0.0000056425088, y: 0.0000076007996, z: 0.83393216, w: 0.55186695}
+  m_LocalPosition: {x: -0.05624138, y: -0.012261657, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 456246}
+  m_Father: {fileID: 487662}
+  m_RootOrder: 0
+--- !u!4 &434134
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169628}
+  m_LocalRotation: {x: -0.07660748, y: -0.08755683, z: -0.2243422, w: 0.96754104}
+  m_LocalPosition: {x: -0.0705706, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 475616}
+  m_Father: {fileID: 481922}
+  m_RootOrder: 3
+--- !u!4 &435422
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 133580}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 12
+--- !u!4 &436382
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107588}
+  m_LocalRotation: {x: -0.49170938, y: 0.5105898, z: -0.33337164, w: 0.62159747}
+  m_LocalPosition: {x: -0.042393036, y: 0.15089607, z: 0.014104431}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 487662}
+  m_Father: {fileID: 449202}
+  m_RootOrder: 1
+--- !u!4 &437000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 159664}
+  m_LocalRotation: {x: 0.40492013, y: 0.30269125, z: -0.01532716, w: 0.8626603}
+  m_LocalPosition: {x: -0.07268898, y: 0.005184822, z: 0.08077167}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 414540}
+  m_Father: {fileID: 476400}
+  m_RootOrder: 1
+--- !u!4 &438480
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 155044}
+  m_LocalRotation: {x: 0.27211654, y: 0.23811662, z: -0.088165484, w: 0.9281595}
+  m_LocalPosition: {x: -0.0914698, y: 0.022237586, z: 0.055683706}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 465892}
+  m_Father: {fileID: 476400}
+  m_RootOrder: 0
+--- !u!4 &438486
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110924}
+  m_LocalRotation: {x: -0.15617898, y: 0.9859694, z: -0.006893084, w: -0.058523178}
+  m_LocalPosition: {x: 0.06797943, y: 0.08042991, z: -0.00088840484}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 428058}
+  m_Father: {fileID: 449202}
+  m_RootOrder: 2
+--- !u!4 &438570
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173592}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 2
+--- !u!4 &439374
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156078}
+  m_LocalRotation: {x: 0.6032824, y: 0.36209163, z: 0.059326794, w: 0.7081104}
+  m_LocalPosition: {x: -0.052738875, y: -0.027991485, z: 0.0937511}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 464310}
+  m_Father: {fileID: 476400}
+  m_RootOrder: 2
+--- !u!4 &439502
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172438}
+  m_LocalRotation: {x: 0.29472083, y: -0.1448621, z: 0.31441963, w: 0.8906711}
+  m_LocalPosition: {x: -0.05001144, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 475616}
+  m_RootOrder: 0
+--- !u!4 &439642
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 178200}
+  m_LocalRotation: {x: 0.000003747617, y: 0.00000020381115, z: 0.054303955, w: 0.9985244}
+  m_LocalPosition: {x: -0.05658157, y: -0.0049151513, z: 1.4551915e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 456990}
+  m_Father: {fileID: 423910}
+  m_RootOrder: 0
+--- !u!4 &439704
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134294}
+  m_LocalRotation: {x: 0.018233137, y: -0.43266362, z: -0.03551934, w: 0.90067095}
+  m_LocalPosition: {x: 0.027354745, y: -0.0009026718, z: -0.04068942}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 456644}
+  m_RootOrder: 1
+--- !u!4 &440114
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120658}
+  m_LocalRotation: {x: 3.1530166e-16, y: 0.000025859083, z: -6.06294e-16, w: 1}
+  m_LocalPosition: {x: 0.010244305, y: 0.051290054, z: 0.0382982}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 423680}
+  m_RootOrder: 2
+--- !u!4 &441494
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 186792}
+  m_LocalRotation: {x: 0.008229124, y: 0.01265329, z: 0.09059367, w: 0.99577355}
+  m_LocalPosition: {x: -0.03942596, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 480790}
+  m_Father: {fileID: 477478}
+  m_RootOrder: 0
+--- !u!4 &442336
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 179190}
+  m_LocalRotation: {x: 0.40571594, y: 0.40291262, z: 0.00790102, w: 0.82036185}
+  m_LocalPosition: {x: -0.2736972, y: -0.00000015258789, z: 0.0000000047683715}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 481922}
+  m_Father: {fileID: 452046}
+  m_RootOrder: 0
+--- !u!4 &444684
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142260}
+  m_LocalRotation: {x: -0.4049142, y: -0.3026861, z: -0.015326445, w: 0.8626649}
+  m_LocalPosition: {x: -0.072689585, y: 0.0051856614, z: -0.08077129}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 480782}
+  m_Father: {fileID: 481922}
+  m_RootOrder: 1
+--- !u!4 &444896
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 150032}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 21
+--- !u!4 &444986
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176902}
+  m_LocalRotation: {x: 0.053428195, y: 0.9743016, z: 0.21722798, w: -0.026341666}
+  m_LocalPosition: {x: -0.058423232, y: 0, z: -0.000000076293944}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 414540}
+  m_RootOrder: 0
+--- !u!4 &448026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123006}
+  m_LocalRotation: {x: 0.012305674, y: 0.43269342, z: 0.059921794, w: 0.89946336}
+  m_LocalPosition: {x: -0.31097737, y: 0, z: -0.000000038146972}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 481926}
+  m_Father: {fileID: 483076}
+  m_RootOrder: 0
+--- !u!4 &449202
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172554}
+  m_LocalRotation: {x: 0.5483545, y: -0.449281, z: 0.4040702, w: 0.57808405}
+  m_LocalPosition: {x: -0.12442337, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 410736}
+  - {fileID: 436382}
+  - {fileID: 438486}
+  m_Father: {fileID: 423300}
+  m_RootOrder: 0
+--- !u!4 &449434
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143968}
+  m_LocalRotation: {x: 0, y: 0.7674334, z: 0, w: 0.6411288}
+  m_LocalPosition: {x: -0.8, y: 0, z: -4.43}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 421694}
+  - {fileID: 468836}
+  - {fileID: 438570}
+  - {fileID: 491746}
+  - {fileID: 403046}
+  - {fileID: 480370}
+  - {fileID: 477296}
+  - {fileID: 408292}
+  - {fileID: 460118}
+  - {fileID: 465346}
+  - {fileID: 416720}
+  - {fileID: 472424}
+  - {fileID: 435422}
+  - {fileID: 452290}
+  - {fileID: 421364}
+  - {fileID: 454374}
+  - {fileID: 453064}
+  - {fileID: 458826}
+  - {fileID: 493202}
+  - {fileID: 474912}
+  - {fileID: 403704}
+  - {fileID: 444896}
+  - {fileID: 449564}
+  - {fileID: 494876}
+  - {fileID: 459310}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &449564
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145516}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 22
+--- !u!4 &452046
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188270}
+  m_LocalRotation: {x: -0.060991254, y: -0.15739906, z: 0.39248657, w: 0.90413487}
+  m_LocalPosition: {x: -0.13804473, y: 0, z: 0.000000001490116}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 442336}
+  m_Father: {fileID: 410736}
+  m_RootOrder: 0
+--- !u!4 &452290
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172408}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 13
+--- !u!4 &453036
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 139304}
+  m_LocalRotation: {x: -0.67386544, y: -0.21516937, z: 0.10416816, w: 0.6991112}
+  m_LocalPosition: {x: -0.05329109, y: 0, z: -0.000000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999998}
+  m_Children:
+  - {fileID: 412738}
+  m_Father: {fileID: 496438}
+  m_RootOrder: 0
+--- !u!4 &453064
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 114942}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.91238403, z: -0.028773045}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 424650}
+  - {fileID: 428362}
+  - {fileID: 495550}
+  - {fileID: 423910}
+  m_Father: {fileID: 449434}
+  m_RootOrder: 16
+--- !u!4 &454374
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 167432}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 15
+--- !u!4 &456246
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 118092}
+  m_LocalRotation: {x: 0, y: -0, z: -0.36084512, w: 0.9326258}
+  m_LocalPosition: {x: -0.043552093, y: 0.00982563, z: 4.6566128e-12}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 400818}
+  m_Father: {fileID: 431952}
+  m_RootOrder: 0
+--- !u!4 &456644
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105936}
+  m_LocalRotation: {x: 0.03550369, y: 0.90067106, z: 0.01822332, w: -0.43266496}
+  m_LocalPosition: {x: -0.13045573, y: 0, z: -0.000000007152557}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 403914}
+  - {fileID: 439704}
+  - {fileID: 404214}
+  m_Father: {fileID: 481926}
+  m_RootOrder: 0
+--- !u!4 &456990
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 136360}
+  m_LocalRotation: {x: 8.408865e-17, y: 2.5155888e-17, z: -0.031060386, w: 0.9995175}
+  m_LocalPosition: {x: -0.0733406, y: -0.0036483526, z: 4.3655745e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 491716}
+  m_Father: {fileID: 439642}
+  m_RootOrder: 0
+--- !u!4 &457554
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124828}
+  m_LocalRotation: {x: -0.012305704, y: 0.4326935, z: -0.05992309, w: 0.8994633}
+  m_LocalPosition: {x: -0.310977, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 421816}
+  m_Father: {fileID: 407330}
+  m_RootOrder: 0
+--- !u!4 &458826
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188426}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 17
+--- !u!4 &459310
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 112974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 24
+--- !u!4 &460118
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126680}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 8
+--- !u!4 &464310
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 155232}
+  m_LocalRotation: {x: 0.6738973, y: 0.21517678, z: 0.10416297, w: 0.699079}
+  m_LocalPosition: {x: -0.053291395, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 0.9999998, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 405440}
+  m_Father: {fileID: 439374}
+  m_RootOrder: 0
+--- !u!4 &465346
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174850}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 9
+--- !u!4 &465892
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 189998}
+  m_LocalRotation: {x: -0.21139097, y: -0.09686926, z: 0.364276, w: 0.90179443}
+  m_LocalPosition: {x: -0.0670916, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 422040}
+  m_Father: {fileID: 438480}
+  m_RootOrder: 0
+--- !u!4 &465968
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140342}
+  m_LocalRotation: {x: 0.21136428, y: 0.096841425, z: 0.36428013, w: 0.901802}
+  m_LocalPosition: {x: -0.0670915, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 400260}
+  m_Father: {fileID: 494284}
+  m_RootOrder: 0
+--- !u!4 &467500
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 155478}
+  m_LocalRotation: {x: -0.40571475, y: -0.40291366, z: 0.007891024, w: 0.8203621}
+  m_LocalPosition: {x: -0.2736995, y: 0.000000076293944, z: -0.000000014305114}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 476400}
+  m_Father: {fileID: 428058}
+  m_RootOrder: 0
+--- !u!4 &468836
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 159196}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 1
+--- !u!4 &472424
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 11
+--- !u!4 &473506
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122304}
+  m_LocalRotation: {x: -2.5326963e-16, y: 1.7763568e-15, z: 8.6736174e-17, w: 1}
+  m_LocalPosition: {x: 0.014543352, y: 0.002168827, z: 0.04678152}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 423680}
+  m_RootOrder: 1
+--- !u!4 &474912
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141326}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 19
+--- !u!4 &475616
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144332}
+  m_LocalRotation: {x: -0.008324105, y: -0.012663796, z: 0.090590715, w: 0.9957729}
+  m_LocalPosition: {x: -0.03942604, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 439502}
+  m_Father: {fileID: 434134}
+  m_RootOrder: 0
+--- !u!4 &476400
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 116164}
+  m_LocalRotation: {x: -0.3460493, y: -0.29043096, z: 0.066028915, w: 0.8896853}
+  m_LocalPosition: {x: -0.21491653, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 438480}
+  - {fileID: 437000}
+  - {fileID: 439374}
+  - {fileID: 477478}
+  m_Father: {fileID: 467500}
+  m_RootOrder: 0
+--- !u!4 &477296
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 146786}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 6
+--- !u!4 &477478
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 129824}
+  m_LocalRotation: {x: 0.07661486, y: 0.0875657, z: -0.22434403, w: 0.96753925}
+  m_LocalPosition: {x: -0.0705706, y: -0.000000038146972, z: 0.000000076293944}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 441494}
+  m_Father: {fileID: 476400}
+  m_RootOrder: 3
+--- !u!4 &478994
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 150054}
+  m_LocalRotation: {x: 0.9785641, y: -0.082853876, z: -0.0067702876, w: 0.18841922}
+  m_LocalPosition: {x: -0.058423538, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 480782}
+  m_RootOrder: 0
+--- !u!4 &480370
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157090}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 5
+--- !u!4 &480782
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 171342}
+  m_LocalRotation: {x: 0.90192664, y: 0.3735097, z: -0.057302583, w: -0.20912984}
+  m_LocalPosition: {x: -0.068869665, y: 0, z: 0.000000057220458}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 478994}
+  m_Father: {fileID: 444684}
+  m_RootOrder: 0
+--- !u!4 &480790
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132538}
+  m_LocalRotation: {x: 0.10100679, y: 0.2790144, z: 0.93045866, w: -0.21493083}
+  m_LocalPosition: {x: -0.0500119, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_Children: []
+  m_Father: {fileID: 441494}
+  m_RootOrder: 0
+--- !u!4 &481922
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 193954}
+  m_LocalRotation: {x: 0.34604716, y: 0.29042467, z: 0.066022605, w: 0.8896887}
+  m_LocalPosition: {x: -0.2149192, y: 0.000000076293944, z: -0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+  m_Children:
+  - {fileID: 494284}
+  - {fileID: 444684}
+  - {fileID: 496438}
+  - {fileID: 434134}
+  m_Father: {fileID: 442336}
+  m_RootOrder: 0
+--- !u!4 &481926
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168340}
+  m_LocalRotation: {x: 0.018830517, y: 0.19717503, z: 0.00025438683, w: 0.9801874}
+  m_LocalPosition: {x: -0.19001038, y: -0.000000038146972, z: -0.0000000023841857}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 456644}
+  m_Father: {fileID: 448026}
+  m_RootOrder: 0
+--- !u!4 &483076
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128356}
+  m_LocalRotation: {x: -0.062017936, y: -0.47831756, z: -0.14563647, w: 0.86380327}
+  m_LocalPosition: {x: -0.35762572, y: 0, z: -0.000000019073486}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 448026}
+  m_Father: {fileID: 428362}
+  m_RootOrder: 0
+--- !u!4 &486788
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168820}
+  m_LocalRotation: {x: -1.2490008e-16, y: 1.4710455e-15, z: 3.1918912e-16, w: 1}
+  m_LocalPosition: {x: 0.021195523, y: -0.04856552, z: 0.04808267}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 423680}
+  m_RootOrder: 0
+--- !u!4 &487662
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 115606}
+  m_LocalRotation: {x: -7.8554147e-17, y: 1.8408854e-16, z: 0.2803219, w: 0.95990604}
+  m_LocalPosition: {x: -0.08805862, y: -0.000000114440915, z: 4.6566128e-12}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 431952}
+  m_Father: {fileID: 436382}
+  m_RootOrder: 0
+--- !u!4 &491716
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156464}
+  m_LocalRotation: {x: 0.46775872, y: 0.53028464, z: -0.46775872, w: 0.53028464}
+  m_LocalPosition: {x: -0.08306137, y: 0.005276532, z: -2.910383e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 456990}
+  m_RootOrder: 0
+--- !u!4 &491746
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130932}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 3
+--- !u!4 &493202
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 103564}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 18
+--- !u!4 &494284
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134060}
+  m_LocalRotation: {x: -0.27210924, y: -0.2381085, z: -0.08816271, w: 0.9281639}
+  m_LocalPosition: {x: -0.0914698, y: 0.02223854, z: -0.0556834}
+  m_LocalScale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+  m_Children:
+  - {fileID: 465968}
+  m_Father: {fileID: 481922}
+  m_RootOrder: 0
+--- !u!4 &494876
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176800}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -8.830519e-10, z: 8.830519e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 449434}
+  m_RootOrder: 23
+--- !u!4 &495550
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 164626}
+  m_LocalRotation: {x: -0.49257144, y: 0.5073198, z: -0.49257144, w: 0.5073198}
+  m_LocalPosition: {x: -0, y: 0.10178879, z: 0.003457837}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 423300}
+  m_Father: {fileID: 453064}
+  m_RootOrder: 2
+--- !u!4 &496438
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184850}
+  m_LocalRotation: {x: -0.6032774, y: -0.36209026, z: 0.05932562, w: 0.70811546}
+  m_LocalPosition: {x: -0.052739486, y: -0.027990378, z: -0.09375072}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 453036}
+  m_Father: {fileID: 481922}
+  m_RootOrder: 2
+--- !u!95 &9553188
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143968}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11423614
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bfaf1597b76048bea58100f2805dca0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blendShapeObjects:
+  - name: Chest_Armor
+    object: {fileID: 4300030, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13738098}
+    blendShapes:
+    - name: chestarmor
+      fullName: SFB_BSM_chestarmor_ChestSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: chestarmor
+      fullName: SFB_BSM_chestarmor_RibcageSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: chestarmor
+      fullName: SFB_BSM_chestarmor_BackSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: chestarmor
+      fullName: SFB_BSM_chestarmor_BellySize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: chestarmor
+      fullName: SFB_BSM_chestarmor_TorsoMatch
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ChestLength
+      fullName: SFB_BS_ChestLength
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FrontLengthMinus
+      fullName: SFB_BS_FrontLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FrontLengthPlus
+      fullName: SFB_BS_FrontLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 1
+      id: 7
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FrontWidthMinus
+      fullName: SFB_BS_FrontWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 8
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FrontWidthPlus
+      fullName: SFB_BS_FrontWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 2
+      id: 9
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: SidesLengthMinus
+      fullName: SFB_BS_SidesLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 10
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: SidesLengthPlus
+      fullName: SFB_BS_SidesLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 3
+      id: 11
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 7
+    expandedInspector: 0
+  - name: Demon_Body
+    object: {fileID: 4300006, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13789856}
+    blendShapes:
+    - name: NeckSpikesMinus
+      fullName: SFB_BS_NeckSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: -0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: NeckSpikesPlus
+      fullName: SFB_BS_NeckSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 4
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BackSpikesBigMinus
+      fullName: SFB_BS_BackSpikesBigMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BackSpikesBigPlus
+      fullName: SFB_BS_BackSpikesBigPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 5
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BackSpikesMinus
+      fullName: SFB_BS_BackSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BackSpikesPlus
+      fullName: SFB_BS_BackSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 6
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderSpikesMinus
+      fullName: SFB_BS_ShoulderSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderSpikesPlus
+      fullName: SFB_BS_ShoulderSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 7
+      id: 7
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ArmSpikesMinus
+      fullName: SFB_BS_ArmSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 8
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ArmSpikesPlus
+      fullName: SFB_BS_ArmSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 8
+      id: 9
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HandSpikesMinus
+      fullName: SFB_BS_HandSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 10
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HandSpikesPlus
+      fullName: SFB_BS_HandSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 9
+      id: 11
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ThighSpikesMinus
+      fullName: SFB_BS_ThighSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 12
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ThighSpikesPlus
+      fullName: SFB_BS_ThighSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 10
+      id: 13
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FootSpikesMinus
+      fullName: SFB_BS_FootSpikesMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 14
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FootSpikesPlus
+      fullName: SFB_BS_FootSpikesPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 11
+      id: 15
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ArmSize
+      fullName: SFB_BS_ArmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 12
+      id: 16
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_lbracer_ArmSize
+        objectID: 16
+        shapeID: 1
+      - name: SFB_BSM_lshoulder_ArmSize
+        objectID: 18
+        shapeID: 1
+      - name: SFB_BSM_rbracer_ArmSize
+        objectID: 19
+        shapeID: 1
+      - name: SFB_BSM_rshoulder_ArmSize
+        objectID: 21
+        shapeID: 1
+      presetExport: 1
+      presetExportValue: 1
+    - name: BicepsSize
+      fullName: SFB_BS_BicepsSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 13
+      id: 17
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_lshoulder_BicepsSize
+        objectID: 18
+        shapeID: 0
+      - name: SFB_BSM_rshoulder_BicepsSize
+        objectID: 21
+        shapeID: 0
+      presetExport: 1
+      presetExportValue: 1
+    - name: ForearmSize
+      fullName: SFB_BS_ForearmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 14
+      id: 18
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_lbracer_ForearmSize
+        objectID: 16
+        shapeID: 0
+      - name: SFB_BSM_rbracer_ForearmSize
+        objectID: 19
+        shapeID: 0
+      presetExport: 1
+      presetExportValue: 1
+    - name: HandSizeMinus
+      fullName: SFB_BS_HandSizeMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 19
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HandSizePlus
+      fullName: SFB_BS_HandSizePlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 15
+      id: 20
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: NailLengthMinus
+      fullName: SFB_BS_NailLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 21
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: NailLengthPlus
+      fullName: SFB_BS_NailLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 16
+      id: 22
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ChestSize
+      fullName: SFB_BS_ChestSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 17
+      id: 23
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_chestarmor_ChestSize
+        objectID: 0
+        shapeID: 0
+      presetExport: 1
+      presetExportValue: 1
+    - name: RibcageSize
+      fullName: SFB_BS_RibcageSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 18
+      id: 24
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_chestarmor_RibcageSize
+        objectID: 0
+        shapeID: 1
+      presetExport: 1
+      presetExportValue: 1
+    - name: BackSize
+      fullName: SFB_BS_BackSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 19
+      id: 25
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_chestarmor_BackSize
+        objectID: 0
+        shapeID: 2
+      presetExport: 1
+      presetExportValue: 1
+    - name: FootNailsMinus
+      fullName: SFB_BS_FootNailsMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 26
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FootNailsPlus
+      fullName: SFB_BS_FootNailsPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 20
+      id: 27
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FootSizeMinus
+      fullName: SFB_BS_FootSizeMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 28
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: -0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: FootSizePlus
+      fullName: SFB_BS_FootSizePlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 21
+      id: 29
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ButtSize
+      fullName: SFB_BS_ButtSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 22
+      id: 30
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_waistarmor_ButtSize
+        objectID: 23
+        shapeID: 0
+      presetExport: 1
+      presetExportValue: 1
+    - name: TorsoMatch
+      fullName: SFB_BS_TorsoMatch
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 23
+      id: 31
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_chestarmor_TorsoMatch
+        objectID: 0
+        shapeID: 4
+      - name: SFB_BSM_waistarmor_TorsoMatch
+        objectID: 23
+        shapeID: 2
+      presetExport: 1
+      presetExportValue: 1
+    - name: AbsSize
+      fullName: SFB_BS_AbsSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 24
+      id: 32
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BellySize
+      fullName: SFB_BS_BellySize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 25
+      id: 33
+      minValue: 0
+      maxValue: 0
+      value: 1
+      sliderValue: 1
+      changeDuration: 0
+      isVisible: 1
+      blendMatches:
+      - name: SFB_BSM_chestarmor_BellySize
+        objectID: 0
+        shapeID: 3
+      - name: SFB_BSM_waist_BellySize
+        objectID: 23
+        shapeID: 1
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 34
+    expandedInspector: 1
+  - name: Demon_HeadA
+    object: {fileID: 4300000, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13726508}
+    blendShapes:
+    - name: UnSnarl
+      fullName: Demon_HeadA_UnSnarl
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: Blink
+      fullName: Demon_HeadA_Blink
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: Frown
+      fullName: Demon_HeadA_Frown
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadASpikesLengthMinus
+      fullName: SFB_BS_HeadASpikesLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadASpikesLengthPlus
+      fullName: SFB_BS_HeadASpikesLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 26
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadASpikesDepthMinus
+      fullName: SFB_BS_HeadASpikesDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadASpikesDepthPlus
+      fullName: SFB_BS_HeadASpikesDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 27
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadACraniumSize
+      fullName: SFB_BS_HeadACraniumSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 28
+      id: 7
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadABrowWidthMinus
+      fullName: SFB_BS_HeadABrowWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 8
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadABrowWidthPlus
+      fullName: SFB_BS_HeadABrowWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 29
+      id: 9
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadABrowLengthMinus
+      fullName: SFB_BS_HeadABrowLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 10
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadABrowLengthPlus
+      fullName: SFB_BS_HeadABrowLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 30
+      id: 11
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadABrowDepth
+      fullName: SFB_BS_HeadABrowDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 31
+      id: 12
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAEyeSize
+      fullName: SFB_BS_HeadAEyeSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 32
+      id: 13
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadACheekboneDepthMinus
+      fullName: SFB_BS_HeadACheekboneDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 14
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadACheekboneDepthPlus
+      fullName: SFB_BS_HeadACheekboneDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 33
+      id: 15
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadACheekDepthMinus
+      fullName: SFB_BS_HeadACheekDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 16
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadACheekDepthPlus
+      fullName: SFB_BS_HeadACheekDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 34
+      id: 17
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANoseWidthMinus
+      fullName: SFB_BS_HeadANoseWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 18
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANoseWidthPlus
+      fullName: SFB_BS_HeadANoseWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 35
+      id: 19
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANoseLengthMinus
+      fullName: SFB_BS_HeadANoseLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 20
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANoseLengthPlus
+      fullName: SFB_BS_HeadANoseLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 36
+      id: 21
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANoseDepthMinus
+      fullName: SFB_BS_HeadANoseDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 22
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANoseDepthPlus
+      fullName: SFB_BS_HeadANoseDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 37
+      id: 23
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAMouthDepth
+      fullName: SFB_BS_HeadAMouthDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 38
+      id: 24
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAChinWidthMinus
+      fullName: SFB_BS_HeadAChinWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 25
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAChinWidthPlus
+      fullName: SFB_BS_HeadAChinWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 39
+      id: 26
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAChinLengthMinus
+      fullName: SFB_BS_HeadAChinLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 27
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAChinLengthPlus
+      fullName: SFB_BS_HeadAChinLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 40
+      id: 28
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAChinDepthMinus
+      fullName: SFB_BS_HeadAChinDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 29
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadAChinDepthPlus
+      fullName: SFB_BS_HeadAChinDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 41
+      id: 30
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadANecklineDepth
+      fullName: SFB_BS_HeadANecklineDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 42
+      id: 31
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadATeethMinus
+      fullName: SFB_BS_HeadATeethMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 32
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadATeethPlus
+      fullName: SFB_BS_HeadATeethPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 43
+      id: 33
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 31
+    expandedInspector: 0
+  - name: Demon_HeadB
+    object: {fileID: 4300002, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13769378}
+    blendShapes:
+    - name: UnSnarl
+      fullName: Demon_HeadB_UnSnarl
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: Blink
+      fullName: Demon_HeadB_Blink
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: Blink2
+      fullName: Demon_HeadB_Blink2
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: Frown
+      fullName: Demon_HeadB_Frown
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBSpikesLengthMinus
+      fullName: SFB_BS_HeadBSpikesLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBSpikesLengthPlus
+      fullName: SFB_BS_HeadBSpikesLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 44
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBSpikesDepthMinus
+      fullName: SFB_BS_HeadBSpikesDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBSpikesDepthPlus
+      fullName: SFB_BS_HeadBSpikesDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 45
+      id: 7
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBCraniumSize
+      fullName: SFB_BS_HeadBCraniumSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 46
+      id: 8
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBBrowLengthMinus
+      fullName: SFB_BS_HeadBBrowLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 9
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBBrowLengthPlus
+      fullName: SFB_BS_HeadBBrowLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 47
+      id: 10
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBBrowWidthMinus
+      fullName: SFB_BS_HeadBBrowWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 11
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBBrowWidthPlus
+      fullName: SFB_BS_HeadBBrowWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 48
+      id: 12
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBBrowDepth
+      fullName: SFB_BS_HeadBBrowDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 49
+      id: 13
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBEyeSize
+      fullName: SFB_BS_HeadBEyeSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 50
+      id: 14
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBCheekboneDepthMinus
+      fullName: SFB_BS_HeadBCheekboneDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 15
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBCheekboneDepthPlus
+      fullName: SFB_BS_HeadBCheekboneDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 51
+      id: 16
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBCheekDepthMinus
+      fullName: SFB_BS_HeadBCheekDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 17
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBCheekDepthPlus
+      fullName: SFB_BS_HeadBCheekDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 52
+      id: 18
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNoseLengthMinus
+      fullName: SFB_BS_HeadBNoseLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 19
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNoseLengthPlus
+      fullName: SFB_BS_HeadBNoseLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 53
+      id: 20
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNoseWidthMinus
+      fullName: SFB_BS_HeadBNoseWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 21
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNoseWidthPlus
+      fullName: SFB_BS_HeadBNoseWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 54
+      id: 22
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNoseDepthMinus
+      fullName: SFB_BS_HeadBNoseDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 23
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNoseDepthPlus
+      fullName: SFB_BS_HeadBNoseDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 55
+      id: 24
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBMouthDepth
+      fullName: SFB_BS_HeadBMouthDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 56
+      id: 25
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBChinLengthMinus
+      fullName: SFB_BS_HeadBChinLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 26
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBChinLengthPlus
+      fullName: SFB_BS_HeadBChinLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 57
+      id: 27
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBChinWidthMinus
+      fullName: SFB_BS_HeadBChinWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 28
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBChinWidthPlus
+      fullName: SFB_BS_HeadBChinWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 58
+      id: 29
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBChinDepthMinus
+      fullName: SFB_BS_HeadBChinDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 30
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBChinDepthPlus
+      fullName: SFB_BS_HeadBChinDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 59
+      id: 31
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBNecklineDepth
+      fullName: SFB_BS_HeadBNecklineDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 60
+      id: 32
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBTeethMinus
+      fullName: SFB_BS_HeadBTeethMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 33
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadBTeethPlus
+      fullName: SFB_BS_HeadBTeethPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 61
+      id: 34
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 31
+    expandedInspector: 0
+  - name: Demon_HeadC
+    object: {fileID: 4300004, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13738256}
+    blendShapes:
+    - name: UnSnarl
+      fullName: Demon_HeadC_UnSnarl
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCCraniumSize
+      fullName: SFB_BS_HeadCCraniumSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 62
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCForeheadBump
+      fullName: SFB_BS_HeadCForeheadBump
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 63
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCInnerCrownMinus
+      fullName: SFB_BS_HeadCInnerCrownMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCInnerCrownPlus
+      fullName: SFB_BS_HeadCInnerCrownPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 64
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMiddleCrownMinus
+      fullName: SFB_BS_HeadCMiddleCrownMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMiddleCrownPlus
+      fullName: SFB_BS_HeadCMiddleCrownPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 65
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCOuterCrownMinus
+      fullName: SFB_BS_HeadCOuterCrownMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 7
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCOuterCrownPlus
+      fullName: SFB_BS_HeadCOuterCrownPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 66
+      id: 8
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMaskLengthMinus
+      fullName: SFB_BS_HeadCMaskLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 9
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMaskLengthPlus
+      fullName: SFB_BS_HeadCMaskLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 67
+      id: 10
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMaskDepthMinus
+      fullName: SFB_BS_HeadCMaskDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 11
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMaskDepthPlus
+      fullName: SFB_BS_HeadCMaskDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 68
+      id: 12
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMaskUpperDepthMinus
+      fullName: SFB_BS_HeadCMaskUpperDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 13
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMaskUpperDepthPlus
+      fullName: SFB_BS_HeadCMaskUpperDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 69
+      id: 14
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCSpikesLengthMinus
+      fullName: SFB_BS_HeadCSpikesLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 15
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCSpikesLengthPlus
+      fullName: SFB_BS_HeadCSpikesLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 70
+      id: 16
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCSpikesDepthMinus
+      fullName: SFB_BS_HeadCSpikesDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 17
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCSpikesDepthPlus
+      fullName: SFB_BS_HeadCSpikesDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 71
+      id: 18
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCCheekboneDepthMinus
+      fullName: SFB_BS_HeadCCheekboneDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 19
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCCheekboneDepthPlus
+      fullName: SFB_BS_HeadCCheekboneDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 72
+      id: 20
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCCheekDepthMinus
+      fullName: SFB_BS_HeadCCheekDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 21
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCCheekDepthPlus
+      fullName: SFB_BS_HeadCCheekDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 73
+      id: 22
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCChinLengthMinus
+      fullName: SFB_BS_HeadCChinLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 23
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCChinLengthPlus
+      fullName: SFB_BS_HeadCChinLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 74
+      id: 24
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCChinWidthMinus
+      fullName: SFB_BS_HeadCChinWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 25
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCChinWidthPlus
+      fullName: SFB_BS_HeadCChinWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 75
+      id: 26
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCChinDepthMinus
+      fullName: SFB_BS_HeadCChinDepthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 27
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCChinDepthPlus
+      fullName: SFB_BS_HeadCChinDepthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 76
+      id: 28
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCMouthDepth
+      fullName: SFB_BS_HeadCMouthDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 77
+      id: 29
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCNecklineDepth
+      fullName: SFB_BS_HeadCNecklineDepth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 78
+      id: 30
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCTeethMinus
+      fullName: SFB_BS_HeadCTeethMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 31
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HeadCTeethPlus
+      fullName: SFB_BS_HeadCTeethPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 79
+      id: 32
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 32
+    expandedInspector: 0
+  - name: Demon_Horns_A1
+    object: {fileID: 4300008, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13726948}
+    blendShapes:
+    - name: HornA1LengthMinus
+      fullName: SFB_BS_HornA1LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA1LengthPlus
+      fullName: SFB_BS_HornA1LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 80
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA1WidthMinus
+      fullName: SFB_BS_HornA1WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA1WidthPlus
+      fullName: SFB_BS_HornA1WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 81
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA1Shape
+      fullName: SFB_BS_HornA1Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 82
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_A2
+    object: {fileID: 4300010, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13782332}
+    blendShapes:
+    - name: HornA2LengthMinus
+      fullName: SFB_BS_HornA2LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA2LengthPlus
+      fullName: SFB_BS_HornA2LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 83
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA2WidthMinus
+      fullName: SFB_BS_HornA2WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA2WidthPlus
+      fullName: SFB_BS_HornA2WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 84
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA2Shape
+      fullName: SFB_BS_HornA2Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 85
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_A3
+    object: {fileID: 4300014, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13756092}
+    blendShapes:
+    - name: HornA3LengthMinus
+      fullName: SFB_BS_HornA3LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA3LengthPlus
+      fullName: SFB_BS_HornA3LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 86
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA3WidthMinus
+      fullName: SFB_BS_HornA3WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA3WidthPlus
+      fullName: SFB_BS_HornA3WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 87
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA3Shape
+      fullName: SFB_BS_HornA3Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 88
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_A4
+    object: {fileID: 4300012, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13727572}
+    blendShapes:
+    - name: HornA4LengthMinus
+      fullName: SFB_BS_HornA4LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA4LengthPlus
+      fullName: SFB_BS_HornA4LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 89
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA4WidthMinus
+      fullName: SFB_BS_HornA4WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA4WidthPlus
+      fullName: SFB_BS_HornA4WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 90
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornA4Shape
+      fullName: SFB_BS_HornA4Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 91
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_B1
+    object: {fileID: 4300016, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13738492}
+    blendShapes:
+    - name: HornB1LengthMinus
+      fullName: SFB_BS_HornB1LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB1LengthPlus
+      fullName: SFB_BS_HornB1LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 92
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB1WidthMinus
+      fullName: SFB_BS_HornB1WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB1WidthPlus
+      fullName: SFB_BS_HornB1WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 93
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB1Shape
+      fullName: SFB_BS_HornB1Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 94
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_B2
+    object: {fileID: 4300018, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13755256}
+    blendShapes:
+    - name: HornB2LengthMinus
+      fullName: SFB_BS_HornB2LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB2LengthPlus
+      fullName: SFB_BS_HornB2LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 95
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB2WidthMinus
+      fullName: SFB_BS_HornB2WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB2WidthPlus
+      fullName: SFB_BS_HornB2WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 96
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB2Shape
+      fullName: SFB_BS_HornB2Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 97
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_B3
+    object: {fileID: 4300020, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13778024}
+    blendShapes:
+    - name: HornB3LengthMinus
+      fullName: SFB_BS_HornB3LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB3LengthPlus
+      fullName: SFB_BS_HornB3LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 98
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB3WidthMinus
+      fullName: SFB_BS_HornB3WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB3WidthPlus
+      fullName: SFB_BS_HornB3WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 99
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornB3Shape
+      fullName: SFB_BS_HornB3Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 100
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_C1
+    object: {fileID: 4300022, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13731428}
+    blendShapes:
+    - name: HornC1LengthMinus
+      fullName: SFB_BS_HornC1LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC1LengthPlus
+      fullName: SFB_BS_HornC1LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 101
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC1WidthMinus
+      fullName: SFB_BS_HornC1WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC1WidthPlus
+      fullName: SFB_BS_HornC1WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 102
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC1Shape
+      fullName: SFB_BS_HornC1Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 103
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_C2
+    object: {fileID: 4300024, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13785706}
+    blendShapes:
+    - name: HornC2LengthMinus
+      fullName: SFB_BS_HornC2LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC2LengthPlus
+      fullName: SFB_BS_HornC2LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 104
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC2WidthMinus
+      fullName: SFB_BS_HornC2WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC2WidthPlus
+      fullName: SFB_BS_HornC2WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 105
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC2Shape
+      fullName: SFB_BS_HornC2Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 106
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_C3
+    object: {fileID: 4300026, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13709196}
+    blendShapes:
+    - name: HornC3LengthMinus
+      fullName: SFB_BS_HornC3LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC3LengthPlus
+      fullName: SFB_BS_HornC3LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 107
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC3WidthMinus
+      fullName: SFB_BS_HornC3WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC3WidthPlus
+      fullName: SFB_BS_HornC3WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 108
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC3Shape
+      fullName: SFB_BS_HornC3Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 109
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: Demon_Horns_C4
+    object: {fileID: 4300028, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13754896}
+    blendShapes:
+    - name: HornC4LengthMinus
+      fullName: SFB_BS_HornC4LengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC4LengthPlus
+      fullName: SFB_BS_HornC4LengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 110
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC4WidthMinus
+      fullName: SFB_BS_HornC4WidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC4WidthPlus
+      fullName: SFB_BS_HornC4WidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 111
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: HornC4Shape
+      fullName: SFB_BS_HornC4Shape
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 112
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: L_Bracer
+    object: {fileID: 4300042, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13724476}
+    blendShapes:
+    - name: lbracer
+      fullName: SFB_BSM_lbracer_ForearmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: lbracer
+      fullName: SFB_BSM_lbracer_ArmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerLTopLengthMinus
+      fullName: SFB_BS_BracerLTopLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerLTopLengthPlus
+      fullName: SFB_BS_BracerLTopLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 113
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerLBottomLengthMinus
+      fullName: SFB_BS_BracerLBottomLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerLBottomLengthPlus
+      fullName: SFB_BS_BracerLBottomLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 114
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerLWidth
+      fullName: SFB_BS_BracerLWidth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 115
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: L_Greave
+    object: {fileID: 4300036, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13728028}
+    blendShapes:
+    - name: lgreave
+      fullName: SFB_BSM_lgreave_CalfSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveLTopLengthMinus
+      fullName: SFB_BS_GreaveLTopLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveLTopLengthPlus
+      fullName: SFB_BS_GreaveLTopLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 116
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveLBottomLengthMinus
+      fullName: SFB_BS_GreaveLBottomLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveLBottomLengthPlus
+      fullName: SFB_BS_GreaveLBottomLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 117
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveLWidth
+      fullName: SFB_BS_GreaveLWidth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 118
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: L_Shoulder_Armor
+    object: {fileID: 4300044, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13784728}
+    blendShapes:
+    - name: lshoulder
+      fullName: SFB_BSM_lshoulder_BicepsSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: lshoulder
+      fullName: SFB_BSM_lshoulder_ArmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderLLengthMinus
+      fullName: SFB_BS_ShoulderLLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderLLengthPlus
+      fullName: SFB_BS_ShoulderLLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 119
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderLThickness
+      fullName: SFB_BS_ShoulderLThickness
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 120
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 3
+    expandedInspector: 0
+  - name: R_Bracer
+    object: {fileID: 4300040, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13785448}
+    blendShapes:
+    - name: rbracer
+      fullName: SFB_BSM_rbracer_ForearmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: rbracer
+      fullName: SFB_BSM_rbracer_ArmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerRTopLengthMinus
+      fullName: SFB_BS_BracerRTopLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerRTopLengthPlus
+      fullName: SFB_BS_BracerRTopLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 121
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerRBottomLengthMinus
+      fullName: SFB_BS_BracerRBottomLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerRBottomLengthPlus
+      fullName: SFB_BS_BracerRBottomLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 122
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: BracerRWidth
+      fullName: SFB_BS_BracerRWidth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 123
+      id: 6
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: R_Greave
+    object: {fileID: 4300038, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13715914}
+    blendShapes:
+    - name: rgreave
+      fullName: SFB_BSM_rgreave_CalfSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveRTopLengthMinus
+      fullName: SFB_BS_GreaveRTopLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveRTopLengthPlus
+      fullName: SFB_BS_GreaveRTopLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 124
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveRBottomLengthMinus
+      fullName: SFB_BS_GreaveRBottomLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveRBottomLengthPlus
+      fullName: SFB_BS_GreaveRBottomLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 125
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: GreaveRWidth
+      fullName: SFB_BS_GreaveRWidth
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 126
+      id: 5
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 5
+    expandedInspector: 0
+  - name: R_Shoulder_Armor
+    object: {fileID: 4300046, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13701064}
+    blendShapes:
+    - name: rshoulder
+      fullName: SFB_BSM_rshoulder_BicepsSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: rshoulder
+      fullName: SFB_BSM_rshoulder_ArmSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderRLengthMinus
+      fullName: SFB_BS_ShoulderRLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderRLengthPlus
+      fullName: SFB_BS_ShoulderRLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 127
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: ShoulderRThickness
+      fullName: SFB_BS_ShoulderRThickness
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 128
+      id: 4
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 3
+    expandedInspector: 0
+  - name: Tassets
+    object: {fileID: 4300034, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13723278}
+    blendShapes:
+    - name: TassetLengthMinus
+      fullName: SFB_BS_TassetLengthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: TassetLengthPlus
+      fullName: SFB_BS_TassetLengthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 129
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: TassetWidthMinus
+      fullName: SFB_BS_TassetWidthMinus
+      isMinus: 1
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: TassetWidthPlus
+      fullName: SFB_BS_TassetWidthPlus
+      isMinus: 0
+      isPlus: 1
+      inspectorID: 130
+      id: 3
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 1
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 4
+    expandedInspector: 0
+  - name: Waist_Armor
+    object: {fileID: 4300032, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+    renderer: {fileID: 13709980}
+    blendShapes:
+    - name: waistarmor
+      fullName: SFB_BSM_waistarmor_ButtSize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 0
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: waist
+      fullName: SFB_BSM_waist_BellySize
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 1
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    - name: waistarmor
+      fullName: SFB_BSM_waistarmor_TorsoMatch
+      isMinus: 0
+      isPlus: 0
+      inspectorID: 0
+      id: 2
+      minValue: 0
+      maxValue: 0
+      value: 0
+      sliderValue: 0
+      changeDuration: 0
+      isVisible: 0
+      blendMatches: []
+      presetExport: 1
+      presetExportValue: 1
+    primaryShapes: 0
+    expandedInspector: 0
+  inspectorObjects:
+  - objectID: 0
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 0
+    shapeID: 7
+    blendShapeID: 7
+  - objectID: 0
+    shapeID: 9
+    blendShapeID: 9
+  - objectID: 0
+    shapeID: 11
+    blendShapeID: 11
+  - objectID: 1
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 1
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 1
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 1
+    shapeID: 7
+    blendShapeID: 7
+  - objectID: 1
+    shapeID: 9
+    blendShapeID: 9
+  - objectID: 1
+    shapeID: 11
+    blendShapeID: 11
+  - objectID: 1
+    shapeID: 13
+    blendShapeID: 13
+  - objectID: 1
+    shapeID: 15
+    blendShapeID: 15
+  - objectID: 1
+    shapeID: 16
+    blendShapeID: 16
+  - objectID: 1
+    shapeID: 17
+    blendShapeID: 17
+  - objectID: 1
+    shapeID: 18
+    blendShapeID: 18
+  - objectID: 1
+    shapeID: 20
+    blendShapeID: 20
+  - objectID: 1
+    shapeID: 22
+    blendShapeID: 22
+  - objectID: 1
+    shapeID: 23
+    blendShapeID: 23
+  - objectID: 1
+    shapeID: 24
+    blendShapeID: 24
+  - objectID: 1
+    shapeID: 25
+    blendShapeID: 25
+  - objectID: 1
+    shapeID: 27
+    blendShapeID: 27
+  - objectID: 1
+    shapeID: 29
+    blendShapeID: 29
+  - objectID: 1
+    shapeID: 30
+    blendShapeID: 30
+  - objectID: 1
+    shapeID: 31
+    blendShapeID: 31
+  - objectID: 1
+    shapeID: 32
+    blendShapeID: 32
+  - objectID: 1
+    shapeID: 33
+    blendShapeID: 33
+  - objectID: 2
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 2
+    shapeID: 6
+    blendShapeID: 6
+  - objectID: 2
+    shapeID: 7
+    blendShapeID: 7
+  - objectID: 2
+    shapeID: 9
+    blendShapeID: 9
+  - objectID: 2
+    shapeID: 11
+    blendShapeID: 11
+  - objectID: 2
+    shapeID: 12
+    blendShapeID: 12
+  - objectID: 2
+    shapeID: 13
+    blendShapeID: 13
+  - objectID: 2
+    shapeID: 15
+    blendShapeID: 15
+  - objectID: 2
+    shapeID: 17
+    blendShapeID: 17
+  - objectID: 2
+    shapeID: 19
+    blendShapeID: 19
+  - objectID: 2
+    shapeID: 21
+    blendShapeID: 21
+  - objectID: 2
+    shapeID: 23
+    blendShapeID: 23
+  - objectID: 2
+    shapeID: 24
+    blendShapeID: 24
+  - objectID: 2
+    shapeID: 26
+    blendShapeID: 26
+  - objectID: 2
+    shapeID: 28
+    blendShapeID: 28
+  - objectID: 2
+    shapeID: 30
+    blendShapeID: 30
+  - objectID: 2
+    shapeID: 31
+    blendShapeID: 31
+  - objectID: 2
+    shapeID: 33
+    blendShapeID: 33
+  - objectID: 3
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 3
+    shapeID: 7
+    blendShapeID: 7
+  - objectID: 3
+    shapeID: 8
+    blendShapeID: 8
+  - objectID: 3
+    shapeID: 10
+    blendShapeID: 10
+  - objectID: 3
+    shapeID: 12
+    blendShapeID: 12
+  - objectID: 3
+    shapeID: 13
+    blendShapeID: 13
+  - objectID: 3
+    shapeID: 14
+    blendShapeID: 14
+  - objectID: 3
+    shapeID: 16
+    blendShapeID: 16
+  - objectID: 3
+    shapeID: 18
+    blendShapeID: 18
+  - objectID: 3
+    shapeID: 20
+    blendShapeID: 20
+  - objectID: 3
+    shapeID: 22
+    blendShapeID: 22
+  - objectID: 3
+    shapeID: 24
+    blendShapeID: 24
+  - objectID: 3
+    shapeID: 25
+    blendShapeID: 25
+  - objectID: 3
+    shapeID: 27
+    blendShapeID: 27
+  - objectID: 3
+    shapeID: 29
+    blendShapeID: 29
+  - objectID: 3
+    shapeID: 31
+    blendShapeID: 31
+  - objectID: 3
+    shapeID: 32
+    blendShapeID: 32
+  - objectID: 3
+    shapeID: 34
+    blendShapeID: 34
+  - objectID: 4
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 4
+    shapeID: 2
+    blendShapeID: 2
+  - objectID: 4
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 4
+    shapeID: 6
+    blendShapeID: 6
+  - objectID: 4
+    shapeID: 8
+    blendShapeID: 8
+  - objectID: 4
+    shapeID: 10
+    blendShapeID: 10
+  - objectID: 4
+    shapeID: 12
+    blendShapeID: 12
+  - objectID: 4
+    shapeID: 14
+    blendShapeID: 14
+  - objectID: 4
+    shapeID: 16
+    blendShapeID: 16
+  - objectID: 4
+    shapeID: 18
+    blendShapeID: 18
+  - objectID: 4
+    shapeID: 20
+    blendShapeID: 20
+  - objectID: 4
+    shapeID: 22
+    blendShapeID: 22
+  - objectID: 4
+    shapeID: 24
+    blendShapeID: 24
+  - objectID: 4
+    shapeID: 26
+    blendShapeID: 26
+  - objectID: 4
+    shapeID: 28
+    blendShapeID: 28
+  - objectID: 4
+    shapeID: 29
+    blendShapeID: 29
+  - objectID: 4
+    shapeID: 30
+    blendShapeID: 30
+  - objectID: 4
+    shapeID: 32
+    blendShapeID: 32
+  - objectID: 5
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 5
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 5
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 6
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 6
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 6
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 7
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 7
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 7
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 8
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 8
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 8
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 9
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 9
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 9
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 10
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 10
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 10
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 11
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 11
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 11
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 12
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 12
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 12
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 13
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 13
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 13
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 14
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 14
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 14
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 15
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 15
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 15
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 16
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 16
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 16
+    shapeID: 6
+    blendShapeID: 6
+  - objectID: 17
+    shapeID: 2
+    blendShapeID: 2
+  - objectID: 17
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 17
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 18
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 18
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 19
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 19
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 19
+    shapeID: 6
+    blendShapeID: 6
+  - objectID: 20
+    shapeID: 2
+    blendShapeID: 2
+  - objectID: 20
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 20
+    shapeID: 5
+    blendShapeID: 5
+  - objectID: 21
+    shapeID: 3
+    blendShapeID: 3
+  - objectID: 21
+    shapeID: 4
+    blendShapeID: 4
+  - objectID: 22
+    shapeID: 1
+    blendShapeID: 1
+  - objectID: 22
+    shapeID: 3
+    blendShapeID: 3
+  presetObjects: []
+  demoSliders: []
+  wireframeHidden: 1
+  presetName: 
+--- !u!137 &13701064
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145516}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300046, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 428058}
+  m_BlendShapeWeights:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 428058}
+  m_AABB:
+    m_Center: {x: -0.09005594, y: 0.06469923, z: -0.0033372864}
+    m_Extent: {x: 0.14392442, y: 0.13576715, z: 0.07388762}
+  m_DirtyAABB: 0
+--- !u!137 &13709196
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 131834}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -2109245178, guid: 879775b6bba9a4940949273f69c3e376, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300026, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.15491128, y: 0.16047171, z: -0.000000059604645}
+    m_Extent: {x: 0.11790344, y: 0.102549136, z: 0.1875186}
+  m_DirtyAABB: 0
+--- !u!137 &13709980
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 112974}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300032, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 495550}
+  - {fileID: 424650}
+  - {fileID: 428362}
+  - {fileID: 453064}
+  m_BlendShapeWeights:
+  - 1
+  - 1
+  - 1
+  m_RootBone: {fileID: 453064}
+  m_AABB:
+    m_Center: {x: 0.000018626451, y: -0.018223248, z: -0.0111323595}
+    m_Extent: {x: 0.29500443, y: 0.24842855, z: 0.3058003}
+  m_DirtyAABB: 0
+--- !u!137 &13715914
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 150032}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300038, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 483076}
+  - {fileID: 428362}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 428362}
+  m_AABB:
+    m_Center: {x: -0.42650878, y: 0.017762274, z: -0.06949061}
+    m_Extent: {x: 0.25868225, y: 0.18817581, z: 0.2858929}
+  m_DirtyAABB: 0
+--- !u!137 &13723278
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176800}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300034, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 423910}
+  - {fileID: 428362}
+  - {fileID: 439642}
+  - {fileID: 456990}
+  - {fileID: 491716}
+  - {fileID: 424650}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 423910}
+  m_AABB:
+    m_Center: {x: -0.1975504, y: -0.0149846375, z: 0.014866196}
+    m_Extent: {x: 0.23219498, y: 0.2057645, z: 0.18447933}
+  m_DirtyAABB: 0
+--- !u!137 &13724476
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188426}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300042, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 442336}
+  m_BlendShapeWeights:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 442336}
+  m_AABB:
+    m_Center: {x: -0.13638303, y: 0.026629198, z: -0.07648027}
+    m_Extent: {x: 0.19894299, y: 0.1039726, z: 0.12980564}
+  m_DirtyAABB: 0
+--- !u!137 &13726508
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173592}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 1873018875, guid: 8ad58e98eaf3e419abc85ea9e2ef78b3, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300000, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  - {fileID: 456246}
+  - {fileID: 436382}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 436382}
+  m_AABB:
+    m_Center: {x: -0.17022613, y: -0.017469421, z: -0.000000059604645}
+    m_Extent: {x: 0.17623416, y: 0.17659268, z: 0.13215967}
+  m_DirtyAABB: 0
+--- !u!137 &13726948
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157090}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -220650177, guid: e36499ec9eaa64f02b468996fb300348, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300008, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.082712665, y: -0.066791, z: -0.000000067055225}
+    m_Extent: {x: 0.07050277, y: 0.053747356, z: 0.0929207}
+  m_DirtyAABB: 0
+--- !u!137 &13727572
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126680}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -220650177, guid: e36499ec9eaa64f02b468996fb300348, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300012, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.080785856, y: 0.18110558, z: -0.000000074505806}
+    m_Extent: {x: 0.11440234, y: 0.10985315, z: 0.20484364}
+  m_DirtyAABB: 0
+--- !u!137 &13728028
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 103564}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300036, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 407330}
+  - {fileID: 424650}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 424650}
+  m_AABB:
+    m_Center: {x: -0.4270563, y: -0.049898326, z: -0.039263427}
+    m_Extent: {x: 0.25906557, y: 0.3061142, z: 0.2372284}
+  m_DirtyAABB: 0
+--- !u!137 &13731428
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 133580}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -2109245178, guid: 879775b6bba9a4940949273f69c3e376, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300022, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.07503195, y: -0.07343882, z: -0.000000074505806}
+    m_Extent: {x: 0.064912036, y: 0.061052024, z: 0.09077075}
+  m_DirtyAABB: 0
+--- !u!137 &13738098
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113722}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300030, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 423300}
+  - {fileID: 495550}
+  - {fileID: 449202}
+  m_BlendShapeWeights:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 495550}
+  m_AABB:
+    m_Center: {x: -0.17839822, y: -0.0047441423, z: 0.0064136833}
+    m_Extent: {x: 0.25389183, y: 0.19617605, z: 0.24980356}
+  m_DirtyAABB: 0
+--- !u!137 &13738256
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160278}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -481634560, guid: 0f9214f6c721842e083b088db5ed3416, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300004, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  - {fileID: 456246}
+  - {fileID: 436382}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 436382}
+  m_AABB:
+    m_Center: {x: -0.19300726, y: -0.03292738, z: -0.000000029802322}
+    m_Extent: {x: 0.19901535, y: 0.19075522, z: 0.1321597}
+  m_DirtyAABB: 0
+--- !u!137 &13738492
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174850}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 631965598, guid: eaa956ea107874b8cb70b100aee1b903, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300016, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.026812622, y: 0.020971179, z: -0.000000059604645}
+    m_Extent: {x: 0.08912701, y: 0.14904058, z: 0.21081401}
+  m_DirtyAABB: 0
+--- !u!137 &13754896
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 167432}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -2109245178, guid: 879775b6bba9a4940949273f69c3e376, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300028, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.0006282814, y: 0.11261402, z: 0}
+    m_Extent: {x: 0.12439427, y: 0.098238125, z: 0.27851552}
+  m_DirtyAABB: 0
+--- !u!137 &13755256
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126372}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 631965598, guid: eaa956ea107874b8cb70b100aee1b903, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300018, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.18252464, y: 0.15937784, z: -0.00000008940697}
+    m_Extent: {x: 0.1058047, y: 0.10117179, z: 0.24700798}
+  m_DirtyAABB: 0
+--- !u!137 &13756092
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160118}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -220650177, guid: e36499ec9eaa64f02b468996fb300348, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300014, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.16138387, y: 0.14026275, z: -0.000000059604645}
+    m_Extent: {x: 0.09451014, y: 0.08615537, z: 0.14033702}
+  m_DirtyAABB: 0
+--- !u!137 &13769378
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130932}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -746891122, guid: 5e995afbd82714af09061a5bff3b8486, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300002, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  - {fileID: 456246}
+  - {fileID: 436382}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 436382}
+  m_AABB:
+    m_Center: {x: -0.16971496, y: -0.017496362, z: -0.00000010430813}
+    m_Extent: {x: 0.17572322, y: 0.17611784, z: 0.13215964}
+  m_DirtyAABB: 0
+--- !u!137 &13778024
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120896}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 631965598, guid: eaa956ea107874b8cb70b100aee1b903, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300020, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.09966539, y: 0.21669503, z: -0.000000029802322}
+    m_Extent: {x: 0.16511746, y: 0.13994063, z: 0.29849112}
+  m_DirtyAABB: 0
+--- !u!137 &13782332
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 146786}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -220650177, guid: e36499ec9eaa64f02b468996fb300348, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300010, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.044358045, y: -0.04639086, z: -0.00000010430813}
+    m_Extent: {x: 0.079598546, y: 0.10191521, z: 0.15397763}
+  m_DirtyAABB: 0
+--- !u!137 &13784728
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141326}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300044, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 452046}
+  m_BlendShapeWeights:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 452046}
+  m_AABB:
+    m_Center: {x: -0.09334093, y: 0.06408554, z: 0.00040907413}
+    m_Extent: {x: 0.15043533, y: 0.13376456, z: 0.0692046}
+  m_DirtyAABB: 0
+--- !u!137 &13785448
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 191058}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 217690353, guid: 375ed799eb31e40d192415b8aa155c68, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300040, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 467500}
+  m_BlendShapeWeights:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 467500}
+  m_AABB:
+    m_Center: {x: -0.12537673, y: 0.017799348, z: 0.052978557}
+    m_Extent: {x: 0.15671161, y: 0.14394394, z: 0.10679673}
+  m_DirtyAABB: 0
+--- !u!137 &13785706
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172408}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: -2109245178, guid: 879775b6bba9a4940949273f69c3e376, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300024, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 487662}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 487662}
+  m_AABB:
+    m_Center: {x: -0.09303384, y: 0.18115911, z: 0}
+    m_Extent: {x: 0.12493157, y: 0.09999108, z: 0.27923372}
+  m_DirtyAABB: 0
+--- !u!137 &13789856
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 159196}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 822623133, guid: f0981922cbb4241b9a8c5f4d3bcaf6cb, type: 3}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_Mesh: {fileID: 4300006, guid: 268f8b6ba88c1784ea83ffcd16e41aa6, type: 3}
+  m_Bones:
+  - {fileID: 442336}
+  - {fileID: 452046}
+  - {fileID: 424650}
+  - {fileID: 410736}
+  - {fileID: 449202}
+  - {fileID: 423300}
+  - {fileID: 438486}
+  - {fileID: 496438}
+  - {fileID: 444684}
+  - {fileID: 481922}
+  - {fileID: 436382}
+  - {fileID: 494284}
+  - {fileID: 439502}
+  - {fileID: 475616}
+  - {fileID: 434134}
+  - {fileID: 453036}
+  - {fileID: 473506}
+  - {fileID: 440114}
+  - {fileID: 421816}
+  - {fileID: 457554}
+  - {fileID: 486788}
+  - {fileID: 495550}
+  - {fileID: 453064}
+  - {fileID: 407330}
+  - {fileID: 480782}
+  - {fileID: 465968}
+  - {fileID: 428362}
+  - {fileID: 400260}
+  - {fileID: 478994}
+  - {fileID: 412738}
+  - {fileID: 467500}
+  - {fileID: 428058}
+  - {fileID: 439374}
+  - {fileID: 437000}
+  - {fileID: 476400}
+  - {fileID: 438480}
+  - {fileID: 403914}
+  - {fileID: 439704}
+  - {fileID: 481926}
+  - {fileID: 480790}
+  - {fileID: 441494}
+  - {fileID: 477478}
+  - {fileID: 414540}
+  - {fileID: 464310}
+  - {fileID: 448026}
+  - {fileID: 404214}
+  - {fileID: 465892}
+  - {fileID: 483076}
+  - {fileID: 422040}
+  - {fileID: 444986}
+  - {fileID: 405440}
+  m_BlendShapeWeights:
+  - -0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  m_RootBone: {fileID: 453064}
+  m_AABB:
+    m_Center: {x: 0.00036856532, y: -0.17217082, z: 0.041826904}
+    m_Extent: {x: 0.69011545, y: 0.8685238, z: 0.36867392}
+  m_DirtyAABB: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 143968}
+  m_IsPrefabParent: 1

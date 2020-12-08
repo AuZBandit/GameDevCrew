@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5bc66d481e4c54c07b82783f0b8963ec
+timeCreated: 1476583612
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _AlbedoOpacity1: {fileID: 2800000, guid: 8bd6005f9bdc84c0c9feac733f094b02, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

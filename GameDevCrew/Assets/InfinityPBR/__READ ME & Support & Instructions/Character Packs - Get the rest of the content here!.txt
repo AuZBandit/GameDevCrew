@@ -1,0 +1,10 @@
+www.InfinityPBR.com
+
+The Monster and Character Packs are bundles of other assets from the Asset Store. Unfortunately the store treats them as separate items entirely, so buying "RPG Character Pack #2" will give you access to that download, but not the three packages that make up the bundle.
+
+The following Character & Monster Packs have the rest of their content available at http://www.InfinityPBR.com -- you will need to register your asset store purchase and create an account on my site. I know that sucks, but the Asset Store won't allow the following packs to be fully uploaded, as the size (mostly due to the 4k textures) is too large.
+
+Once registered, you'll find .unitypackage files on the "Downloads" page of my site. Thanks for understanding!
+
+* RPG Character Pack #2 - Additional textures have been removed
+[End of List]
